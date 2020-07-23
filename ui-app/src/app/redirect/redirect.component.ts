@@ -22,4 +22,8 @@ export class RedirectComponent implements OnInit {
     });
   }
 
+  showPopup() {
+    alert('Hey There');
+  }
+
 }
